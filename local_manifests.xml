@@ -52,7 +52,7 @@
  <project path="packages/apps/DolbyUI" name="packages_apps_DolbyUI" remote="mayuresh-sources" revision="a" />
 
  <!-- FaceUnlock -->
- <project path="packages/apps/ParanoidSense" name="android_packages_apps_ParanoidSense" remote="github" revision="calcite" />
+ <project path="packages/apps/ParanoidSense" name="android_packages_apps_ParanoidSense" remote="aospa-clo" revision="calcite" />
 
  <!-- Datura -->
  <project path="prebuilts/calyx/datura" name="prebuilts_calyx_datura" remote="mayuresh-sources" revision="15-qpr2" />
