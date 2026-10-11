@@ -23,6 +23,9 @@
    <remote name="mayuresh-sources"
            fetch="https://github.com/mayuresh-sources"
 	   clone-depth="1" />
+   <remote name="aospa-clo"
+           fetch="https://github.com/AOSPA"
+	   clone-depth="1" />
 
  <!-- Tree -->
  <project path="device/xiaomi/stone" name="device_xiaomi_stone_new" remote="mayuresh" revision="lineage-24.0" />
@@ -47,6 +50,9 @@
 
  <!-- Dolby UI -->
  <project path="packages/apps/DolbyUI" name="packages_apps_DolbyUI" remote="mayuresh-sources" revision="a" />
+
+ <!-- FaceUnlock -->
+ <project path="packages/apps/ParanoidSense" name="android_packages_apps_ParanoidSense" remote="github" revision="calcite" />
 
  <!-- Datura -->
  <project path="prebuilts/calyx/datura" name="prebuilts_calyx_datura" remote="mayuresh-sources" revision="15-qpr2" />
